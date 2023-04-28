@@ -8,6 +8,7 @@ O projeto tem como objetivo a estudar a integração entre o Serilog e o Elastic
 ### Tecnologias
 <p display="inline-block">
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core 6"/>
+  <img width="48" src="https://serilog.net/" alt="Serilog"/>
 </p>
                                                                                                   
 ### Ferramentas de desenvolvimento
